@@ -1,4 +1,4 @@
-# Flask, ZeroMQ, MySQL, and Docker
+# Flask, NATS, MySQL, and Docker
 
 ## Installation
 
