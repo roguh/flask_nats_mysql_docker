@@ -1,2 +1,9 @@
+nose2
+requests
 Flask
 Flask-SQLAlchemy
+flask-jwt-extended
+flask-security
+SQLAlchemy
+asyncio-nats-client
+mysql-connector-python

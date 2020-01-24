@@ -6,8 +6,15 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "*"
-flask-sqlalchemy = "*"
+nose2 = "*"
+requests = "*"
+asyncio-nats-client = "*"
+mysql-connector-python = "*"
+Flask = "*"
+Flask-SQLAlchemy = "*"
+Flask-JWT-Extended = "*"
+Flask-Security = "*"
+SQLAlchemy = "*"
 
 [requires]
 python_version = "3.8"
