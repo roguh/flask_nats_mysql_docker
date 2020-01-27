@@ -27,3 +27,7 @@ Set FLASK_APPLICATION_SETTINGS to a Flask configuration file:
 ```
 export FLASK_APPLICATION_SETTINGS='flask_dev_config.py'
 ```
+
+# License
+
+Licensed under the Apache License version 2.0. See LICENSE.txt.
